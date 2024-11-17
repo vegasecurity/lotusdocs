@@ -39,7 +39,7 @@ Check out the demo site [https://lotusdocs.dev/docs/](https://lotusdocs.dev/docs
 
 ### Requirements
 
-- Hugo **Extended** (minimum version: 0.120.0)
+- Hugo **Extended** (minimum version: 0.124.0)
 - git
 - Go (minimum version v1.20)
 
