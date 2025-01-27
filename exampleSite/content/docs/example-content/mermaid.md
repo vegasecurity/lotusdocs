@@ -34,7 +34,7 @@ John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
 
-## Gnatt Chart
+## Gantt Chart
 
 ```mermaid
 gantt
