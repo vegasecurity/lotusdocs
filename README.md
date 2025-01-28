@@ -6,8 +6,6 @@
 
 Check out the demo site [https://lotusdocs.dev/docs/](https://lotusdocs.dev/docs/) (also doubles as the documentation guide for Lotus Docs 📖)
 
-🚧 **WARNING** 🚧 - **Lotus Docs is currently in pre-release development and thus not recommended for use in production at this time. But please do try it out 😊. Pull requests and feedback are most welcome.**
-
 ## Features
 
 * [x] Modern documentation layout
@@ -41,9 +39,9 @@ Check out the demo site [https://lotusdocs.dev/docs/](https://lotusdocs.dev/docs
 
 ### Requirements
 
-- Hugo **Extended** (minimum version: 0.117.0)
+- Hugo **Extended** (minimum version: 0.140.0)
 - git
-- Go (minimum version v1.20)
+- Go (minimum version v1.21)
 
 ### Initialize your site as a Hugo Module
 
