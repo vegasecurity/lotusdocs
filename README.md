@@ -202,6 +202,6 @@ Navigate to `localhost:1313/docs/` and you should see a card link to the **Examp
 
 [Colin Wilson](https://github.com/colinwilson)
 
-Copyright © 2022-2023 [Colin Wilson](https://github.com/colinwilson)
+Copyright © 2022-2025 [Colin Wilson](https://github.com/colinwilson)
 
 [^1]: [Hugo Modules](https://gohugo.io/hugo-modules/)
